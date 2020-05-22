@@ -1,6 +1,5 @@
 import tensorflow as tf
 import numpy as np
-from mesh_nn import MeshNeuralNetwork
 
 BATCH_SIZE = 50
 HIDDEN_UNITS = 28
